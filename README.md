@@ -1,24 +1,3 @@
-# Red Panda
-Welcome to Jonathan Trans's Project: Red Panda.
-We are excited to see you here! 😊 
-
-Red Panda is a tool and platform to...
-
-This project has yet been released to the public and is expected to release fall 2021. More information will be added in the due time.
-
-Tools: JavaScript, Node.js, React.js, Google Firebase (Cloud NoSQL Database / Backend), Git/GitHub, and more to be added...👻
-
-# Link(s) : 
-Red Panda Demo Website: TBA \
-LinkedIn: https://www.linkedin.com/in/jonathantrans \
-Personal Website: https://jonathantrans.me
-
-Red Panda
-=================
-Red Panda Awareness, Networking Web Application
-
-TBA
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
